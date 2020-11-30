@@ -27,6 +27,7 @@ for line in text_splitted:
 #             print(price)
             split_space.remove(item_id)
             split_space.remove(price)
+            split_space.remove("FN")
             item = " ".join(split_space)
             data_pd["item_id"].append(item_id)
             data_pd["item"].append(item)
