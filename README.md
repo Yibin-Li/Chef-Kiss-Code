@@ -14,4 +14,4 @@ input
 
 output
 
-![Receipt Scanner](https://github.com/Yibin-Li/Chef-Kiss-Code/blob/main/Screen%20Shot%202020-11-29%20at%208.53.48%20PM.png)
+![Receipt Scanner](https://github.com/Yibin-Li/Chef-Kiss-Code/blob/main/receipt_processing.png)
