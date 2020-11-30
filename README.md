@@ -5,3 +5,7 @@ Our code samples contains two most important parts of the prototype: receipt sca
 Utilized dataset from Kaggle for list of recipes and ingredients.
 *Note: The recommender only lists the ID of the recipes since the dataset does not have recipe name itself.
 ![alt text](https://github.com/Yibin-Li/Chef-Kiss-Code/blob/main/sample_recipe_rec.png)
+## Receipt Scanner
+Utilized pytesseract for image OCR to convert the image to text. The script will process a receipt image and store the data to a pandas dataframe.
+
+![Receipt Scanner](https://github.com/Yibin-Li/Chef-Kiss-Code/blob/main/Screen%20Shot%202020-11-29%20at%208.53.48%20PM.png)
