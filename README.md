@@ -4,3 +4,4 @@ Our code samples contains two most important parts of the prototype: receipt sca
 ## Recipe Recommender
 Utilized dataset from Kaggle for list of recipes and ingredients.
 *Note: The recommender only lists the ID of the recipes since the dataset does not have recipe name itself.
+![alt text](https://github.com/Yibin-Li/Chef-Kiss-Code/blob/main/sample_recipe_rec.png)
